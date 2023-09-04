@@ -1,0 +1,17 @@
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\bin\Debug\net6.0\TestSimulatorForGETPOST.exe
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\bin\Debug\net6.0\TestSimulatorForGETPOST.deps.json
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\bin\Debug\net6.0\TestSimulatorForGETPOST.runtimeconfig.json
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\bin\Debug\net6.0\TestSimulatorForGETPOST.dll
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\bin\Debug\net6.0\TestSimulatorForGETPOST.pdb
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\obj\Debug\net6.0\TestSimulatorForGETPOST.csproj.AssemblyReference.cache
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\obj\Debug\net6.0\TestSimulatorForGETPOST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\obj\Debug\net6.0\TestSimulatorForGETPOST.AssemblyInfoInputs.cache
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\obj\Debug\net6.0\TestSimulatorForGETPOST.AssemblyInfo.cs
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\obj\Debug\net6.0\TestSimulatorForGETPOST.csproj.CoreCompileInputs.cache
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\obj\Debug\net6.0\TestSimulatorForGETPOST.csproj.CopyComplete
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\obj\Debug\net6.0\TestSimulatorForGETPOST.dll
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\obj\Debug\net6.0\refint\TestSimulatorForGETPOST.dll
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\obj\Debug\net6.0\TestSimulatorForGETPOST.pdb
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\obj\Debug\net6.0\TestSimulatorForGETPOST.genruntimeconfig.cache
+C:\Users\kjash\Desktop\TestSimulatorForGETPOST\TestSimulatorForGETPOST\obj\Debug\net6.0\ref\TestSimulatorForGETPOST.dll

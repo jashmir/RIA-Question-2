@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ctOcr95oxT4nFDMK9YfaQsuOh4H5NrfjpYt8FrW6qUbHvlcHNpKcGMD5fVFdO4BuPmlPPHULvf97ULDTb68LQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kjash\\Desktop\\RIA_Question2_REST_Server\\DotnetCoding\\DotnetCoding.Core\\DotnetCoding.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kjash\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\kjash\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\kjash\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
